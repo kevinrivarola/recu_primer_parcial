@@ -1,0 +1,162 @@
+[
+	{
+		"id_servicio": "2",
+		"descripcion": "cambio de aceite",
+		"tipo": "mantenimiento",
+		"precioUnitario": "50",
+		"cantidad": "1",
+		"cliente": "Maria Lopez"
+	},
+	{
+		"id_servicio": "3",
+		"descripcion": "reparacion de motor",
+		"tipo": "mecanica",
+		"precioUnitario": "500",
+		"cantidad": "1",
+		"cliente": "Luis Garcia"
+	},
+	{
+		"id_servicio": "4",
+		"descripcion": "cambio de filtro de aire",
+		"tipo": "mantenimiento",
+		"precioUnitario": "30",
+		"cantidad": "1",
+		"cliente": "Ana Martinez"
+	},
+	{
+		"id_servicio": "5",
+		"descripcion": "alineacion y balanceo",
+		"tipo": "neumaticos",
+		"precioUnitario": "80",
+		"cantidad": "2",
+		"cliente": "Pedro Ramirez"
+	},
+	{
+		"id_servicio": "6",
+		"descripcion": "cambio de bateria",
+		"tipo": "mantenimiento",
+		"precioUnitario": "120",
+		"cantidad": "1",
+		"cliente": "Laura Castillo"
+	},
+	{
+		"id_servicio": "7",
+		"descripcion": "revision de frenos",
+		"tipo": "mecanica",
+		"precioUnitario": "60",
+		"cantidad": "1",
+		"cliente": "Javier Sanchez"
+	},
+	{
+		"id_servicio": "8",
+		"descripcion": "cambio de amortiguadores",
+		"tipo": "mecanica",
+		"precioUnitario": "200",
+		"cantidad": "2",
+		"cliente": "Lucia Gomez"
+	},
+	{
+		"id_servicio": "9",
+		"descripcion": "rotacion de llantas",
+		"tipo": "neumaticos",
+		"precioUnitario": "40",
+		"cantidad": "4",
+		"cliente": "Carlos Juarez"
+	},
+	{
+		"id_servicio": "10",
+		"descripcion": "cambio de filtro de aceite",
+		"tipo": "mantenimiento",
+		"precioUnitario": "25",
+		"cantidad": "1",
+		"cliente": "Sofia Hernandez"
+	},
+	{
+		"id_servicio": "11",
+		"descripcion": "reparacion de transmision",
+		"tipo": "mecanica",
+		"precioUnitario": "800",
+		"cantidad": "1",
+		"cliente": "Diego Torres"
+	},
+	{
+		"id_servicio": "12",
+		"descripcion": "cambio de bujias",
+		"tipo": "mantenimiento",
+		"precioUnitario": "35",
+		"cantidad": "4",
+		"cliente": "Elena Rodriguez"
+	},
+	{
+		"id_servicio": "13",
+		"descripcion": "alineacion de direccion",
+		"tipo": "neumaticos",
+		"precioUnitario": "60",
+		"cantidad": "1",
+		"cliente": "Manuel Perez"
+	},
+	{
+		"id_servicio": "14",
+		"descripcion": "cambio de liquido de frenos",
+		"tipo": "mantenimiento",
+		"precioUnitario": "45",
+		"cantidad": "1",
+		"cliente": "Fernanda Ramirez"
+	},
+	{
+		"id_servicio": "15",
+		"descripcion": "revision de suspension",
+		"tipo": "mecanica",
+		"precioUnitario": "70",
+		"cantidad": "1",
+		"cliente": "Roberto Gutierrez"
+	},
+	{
+		"id_servicio": "16",
+		"descripcion": "cambio de filtro de gasolina",
+		"tipo": "mantenimiento",
+		"precioUnitario": "30",
+		"cantidad": "1",
+		"cliente": "Carmen Nuñez"
+	},
+	{
+		"id_servicio": "17",
+		"descripcion": "rotacion y balanceo de llantas",
+		"tipo": "neumaticos",
+		"precioUnitario": "50",
+		"cantidad": "4",
+		"cliente": "Alejandro Ruiz"
+	},
+	{
+		"id_servicio": "18",
+		"descripcion": "cambio de termostato",
+		"tipo": "mecanica",
+		"precioUnitario": "90",
+		"cantidad": "1",
+		"cliente": "Isabel Garcia"
+	},
+	{
+		"id_servicio": "19",
+		"descripcion": "cambio de fusibles",
+		"tipo": "mantenimiento",
+		"precioUnitario": "20",
+		"cantidad": "1",
+		"cliente": "Ricardo Martinez"
+	},
+	{
+		"id_servicio": "20",
+		"descripcion": "revision de luces",
+		"tipo": "mantenimiento",
+		"precioUnitario": "15",
+		"cantidad": "1",
+		"cliente": "Veronica Lopez"
+	},
+	{
+		"id_servicio": "21",
+		"descripcion": "cambio de discos de freno",
+		"tipo": "mecanica",
+		"precioUnitario": "180",
+		"cantidad": "2",
+		"cliente": "Daniel Sanchez"
+	}
+]
